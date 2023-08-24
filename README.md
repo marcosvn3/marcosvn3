@@ -4,7 +4,6 @@
 
 ## Conecte-se comigo
 [![DIo](https://img.shields.io/badge/Dio-blue?style=for-the-badge&logo=Dio)](https://www.dio.me/users/vynni_mv)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ## Linguagens mais usadas
 
