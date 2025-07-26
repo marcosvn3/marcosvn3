@@ -1,5 +1,6 @@
 # 💻 Marcos Vinicius Santos 
 **Engenheiro de Computação em Formação**  
+Estudo sobre desenvolvimento de software com foco em Back-end Java, atividades que me ajudam a manter disciplina e foco.
 
 ✉ marcos_santos.dev@outlook.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-santos) 
