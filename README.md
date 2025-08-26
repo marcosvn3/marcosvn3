@@ -40,9 +40,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 1</h3>
+      <h3 align="center">Sistema Gerenciador de cursos</h3>
       <br />
-      <a href="LINK_PARA_O_PROJETO_1_NO_AR">
+      <a href="[Sistema Gerenciador de Cursos](https://github.com/marcosvn3/SistemaGerenciadorDeCursos)">
         <img src="URL_DO_GIF_OU_IMAGEM_PROJETO_1" alt="Prévia do Projeto 1" />
       </a>
       <br />
@@ -59,7 +59,7 @@
     <td width="50%">
       <h3 align="center">Nome do Projeto 2</h3>
       <br />
-      <a href="[Sistema Gerenciador de Cursos](https://github.com/marcosvn3/SistemaGerenciadorDeCursos)">
+      <a href="">
         <img src="URL_DO_GIF_OU_IMAGEM_PROJETO_2" alt="Prévia do Projeto 2" />
       </a>
       <br />
